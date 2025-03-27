@@ -1,4 +1,4 @@
-# Tecnicas-de-Aprendizaje-Automatico
+# Tecnicas de Aprendizaje Automatico
 En este trabajo teniamos que realizar lo siguiente:
  - Usando un conjunto de datos con diversas características de vinos, predice la calidad de
    estos usando un algoritmo de regresión y otro de clasificación y compara el desempeño de
